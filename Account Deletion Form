@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Delete Your Account – Hoarding Support App</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #f2f8fc;
+      color: #333;
+      max-width: 800px;
+      margin: 40px auto;
+      padding: 20px;
+      line-height: 1.6;
+    }
+    h1 {
+      color: #0077aa;
+    }
+    a {
+      color: #0066cc;
+      text-decoration: none;
+    }
+    a:hover {
+      text-decoration: underline;
+    }
+    .container {
+      background: #ffffff;
+      padding: 30px;
+      border-radius: 10px;
+      box-shadow: 0 0 10px rgba(0,0,0,0.1);
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>Delete Your Account – Hoarding Support</h1>
+    <p>We respect your privacy and your right to control your data. You can delete your account from within the app or request it manually here.</p>
+
+    <h2>🗑️ Delete via the App</h2>
+    <ol>
+      <li>Open the <strong>Hoarding Support</strong> app</li>
+      <li>Go to <strong>Settings</strong></li>
+      <li>Tap <strong>“Delete My Account”</strong></li>
+      <li>Confirm deletion — this will permanently remove your account, photos, goals, XP, and all saved data from our servers.</li>
+    </ol>
+
+    <h2>🌐 Request Manual Deletion</h2>
+    <p>If you no longer have access to the app or prefer to delete your account outside of it, you can use the form below:</p>
+    <p><a href="https://forms.gle/YOUR_FORM_LINK_HERE" target="_blank">👉 Request Account Deletion via Form</a></p>
+
+    <h2>🔐 What Happens When You Delete Your Account?</h2>
+    <ul>
+      <li>Your profile and associated data (goals, photos, progress, etc.) will be permanently deleted.</li>
+      <li>Your data cannot be recovered once deleted.</li>
+      <li>Deletion requests are processed within 48 hours.</li>
+    </ul>
+
+    <p>If you have any questions or concerns, feel free to contact us at:<br/>
+    <strong>Email:</strong> support@hoardingsupport.app</p>
+  </div>
+</body>
+</html>
